@@ -1,0 +1,3 @@
+taller: taller.cpp
+	g++ -I /Users/francisco/local/include/eigen3 taller.cpp -o taller 
+     
